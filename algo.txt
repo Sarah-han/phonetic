@@ -1,0 +1,21 @@
+* v, w
+* b, f, p
+* g, j
+* c, k, q
+* s, z 
+* d, t 
+* o, u
+* i, y
+
+CAP -> smll
+smll -> CAP
+
+prashWord.len = word.len
+
+Alg0:
+1.split prash to indvidual words
+2. go trhow array and look for same len
+	2.1 replace all to CAP
+	2.2 while(equals! && i < len )
+		2.2.1 go trhow all option for word[i] using switch
+		 								
